@@ -1,0 +1,334 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #cb3636;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Cards {
+    display: none;
+    align-items: center;
+    justify-content: left;
+    margin: 100px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(4,1fr);
+    /* display: none; */
+    gap: 20px;
+    z-index: 0;
+}
+
+
+
+.Cards .FlipCard {
+
+    height: 200px;
+    width: 300px;
+}
+
+.Cards .FlipCard .FlipCardInner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+    transform-style: preserve-3d;
+}
+
+
+.Cards .FlipCardInner .CardBack img {
+    width: 100%;
+    height: 100%;
+}
+
+.Cards .FlipCard .FlipCardInner .CardFront,
+.Cards .FlipCard .FlipCardInner .CardBack {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    cursor: pointer;
+}
+
+
+.Cards .FlipCard .CardFront {
+    background: linear-gradient(rgb(231, 223, 5), rgb(225, 151, 21));
+     color: black;
+}
+
+
+
+
+.Congratulations{
+    background: rgba(0, 0, 0, 0.3);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+
+
+.Congratulations .Box {
+    height: 150px;
+    width: 250px;
+    background-color: black;
+    border: solid 2px white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+}
+
+.Congratulations .Box .Info p {
+    color: white;
+    font-size: 20px;
+}
+
+
+.Congratulations .Box .Info button {
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    border-color: black;
+} 
+
+.Congratulations .Box .Info button:hover {
+    background-color: rgb(238, 225, 225);
+}
+
+.Congratulations .Box .Info button a {
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    font-size: 15px;
+    color: black;
+} 
+
+input {
+    display: none;
+}
+
+
+
+.Principal {
+    height: 100%;
+    width: 100%;
+}
+
+.Principal .Fondo {
+    background-color: rgb(236, 176, 63);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    /* display: none; */
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
+
+.Principal .Fondo .Titulo {
+    font-size: 55px;
+    font-family: 'Tilt Prism', cursive;
+    font-weight: bold;
+    height: 40px;
+    margin: 50px;
+    color: yellow;
+    align-content: start;
+    
+}
+
+.Principal .Fondo button {
+    cursor: pointer;
+    flex-direction: column;
+    margin: 30px;
+    height:100px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 38px;
+    font-weight: bold;
+    border-radius: 3%;
+    font-family: 'Tilt Prism', cursive;
+    border: solid 4px black;
+    background-color: rgb(236, 176, 63);
+    text-decoration: none;
+}
+
+.Principal .Fondo a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+/* Alerta    */
+.Alerta {
+    margin: 0;
+    position: absolute;
+    opacity: 0;
+    transform: scale(0.5);
+    top: 0;
+    left: 0;
+    z-index: 2;
+  }
+  
+  .alert {
+    position: relative;
+    top: 10;
+    left: 0;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    line-height: 1.8;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-weight: 400;
+  }
+  
+  .alertText {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+  }
+
+
+
+
+/* Rotar cartas si están marcadas*/
+.Cards .FlipCard .CardBack {
+    transform: rotateY(180deg);
+}
+
+#Card1:checked ~ .Card--Card1 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+
+#Card11:checked ~ .Card--Card11 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card2:checked ~ .Card--Card2 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card22:checked ~ .Card--Card22 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card3:checked ~ .Card--Card3 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card33:checked ~ .Card--Card33 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card4:checked ~ .Card--Card4 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card44:checked ~ .Card--Card44 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card5:checked ~ .Card--Card5 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card55:checked ~ .Card--Card55 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card6:checked ~ .Card--Card6 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card66:checked ~ .Card--Card66 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card7:checked ~ .Card--Card7 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card77:checked ~ .Card--Card77 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card8:checked ~ .Card--Card8 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+#Card88:checked ~ .Card--Card88 .FlipCardInner{
+    transform: rotateY(180deg);
+}
+
+
+/* Verificar si están marcados */
+#Card1:checked + #Card11:checked ~ label.Card--Card1,
+#Card1:checked + #Card11:checked ~ label.Card--Card11,
+#Card2:checked + #Card22:checked ~ label.Card--Card2,
+#Card2:checked + #Card22:checked ~ label.Card--Card22,
+#Card3:checked + #Card33:checked ~ label.Card--Card3,
+#Card3:checked + #Card33:checked ~ label.Card--Card33,
+#Card4:checked + #Card44:checked ~ label.Card--Card4,
+#Card4:checked + #Card44:checked ~ label.Card--Card44,
+#Card5:checked + #Card55:checked ~ label.Card--Card5,
+#Card5:checked + #Card55:checked ~ label.Card--Card55,
+#Card6:checked + #Card66:checked ~ label.Card--Card6,
+#Card6:checked + #Card66:checked ~ label.Card--Card66,
+#Card7:checked + #Card77:checked ~ label.Card--Card7,
+#Card7:checked + #Card77:checked ~ label.Card--Card77,
+#Card8:checked + #Card88:checked ~ label.Card--Card8,
+#Card8:checked + #Card88:checked ~ label.Card--Card88 {
+    pointer-events: none;
+}
+
+
+
+/* Verficación si son incorrectas */
+#Card1:checked + #Card11:not(:checked) + #Card2:checked + #Card22:not(:checked) ~ .Card--Card11,
+#Card1:checked + #Card11:not(:checked) + #Card2:checked + #Card22:not(:checked) ~ .Card--Card22,
+#Card1:checked + #Card11:not(:checked) + #Card2:not(:checked) + #Card22:checked ~ .Card--Card11,
+#Card1:checked + #Card11:not(:checked) + #Card2:not(:checked) + #Card22:checked ~ .Card--Card2,
+#Card1:not(:checked) + #Card11:checked + #Card2:checked + #Card22:not(:checked) ~ .Card--Card1,
+#Card1:not(:checked) + #Card11:checked + #Card2:checked + #Card22:not(:checked) ~ .Card--Card22,
+#Card1:not(:checked) + #Card11:checked + #Card2:not(:checked) + #Card22:checked ~ .Card--Card1,
+#Card1:not(:checked) + #Card11:checked + #Card2:not(:checked) + #Card22:checked ~ .Card--Card2 {
+    pointer-events: none;
+}
+
+
+/* Mensaje para todas las incorrectas */
+/* #Card1:checked + #Card11:not(:checked) + #Card2:checked + #Card22:not(:checked) ~ .MessageFail,
+#Card1:checked + #Card11:not(:checked) + #Card2:checked + #Card22:not(:checked) ~ .MessageFail,
+#Card1:checked + #Card11:not(:checked) + #Card2:not(:checked) + #Card22:checked ~ .MessageFail,
+#Card1:checked + #Card11:not(:checked) + #Card2:not(:checked) + #Card22:checked ~ .MessageFail,
+#Card1:not(:checked) + #Card11:checked + #Card2:checked + #Card22:not(:checked) ~ .MessageFail,
+#Card1:not(:checked) + #Card11:checked + #Card2:checked + #Card22:not(:checked) ~ .MessageFail,
+#Card1:not(:checked) + #Card11:checked + #Card2:not(:checked) + #Card22:checked ~ .MessageFail,
+#Card1:not(:checked) + #Card11:checked + #Card2:not(:checked) + #Card22:checked ~ .MessageFail {
+   display: flex;
+} */
+
+
+#Card1:checked + #Card11:checked + #Card2:checked + #Card22:checked + #Card3:checked + #Card33:checked + #Card4:checked + #Card44:checked + #Card5:checked + #Card55:checked + #Card6:checked + #Card66:checked + #Card7:checked + #Card77:checked + #Card8:checked + #Card88:checked ~ .Congratulations {
+    display: flex;
+}
+
+
+
+
+
