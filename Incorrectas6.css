@@ -1,0 +1,242 @@
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card1,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card11,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card2,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card22,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card3,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card33,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card4,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card44,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card5,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card55,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card66,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card77,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card8,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card88,
+
+ 
+ 
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card1,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card11,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card2,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card22,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card3,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card33,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card4,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card44,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card5,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card55,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card66,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card7,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card8,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card88,
+
+ 
+ 
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card1,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card11,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card2,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card22,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card3,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card33,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card4,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card44,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card5,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card55,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card66,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card7,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card77,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card88,
+
+ 
+ 
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card1,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card11,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card2,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card22,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card3,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card33,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card4,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card44,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card5,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card55,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card66,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card7,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card77,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:checked ~ #Card66:not(:checked) ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card8,
+
+
+/*Termina comprobación carta 6 Incorrecta*/
+
+/*Empieza comprobación carta 66 Incorrecta*/
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card1,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card11,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card2,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card22,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card3,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card33,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card4,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card44,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card5,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card55,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card6,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card77,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card8,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:checked ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card88,
+
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card1,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card11,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card2,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card22,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card3,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card33,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card4,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card44,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card5,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card55,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card6,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card7,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card8,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:checked ~ #Card8:not(:checked) ~ #Card88:not(:checked) ~ .Card--Card88,
+
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card1,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card11,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card2,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card22,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card3,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card33,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card4,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card44,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card5,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card55,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card6,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card7,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card77,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Card4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:checked ~ #Card88:not(:checked) ~ .Card--Card88,
+
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card1,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card11,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card2,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card22,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card3,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card33,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card4,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card44,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card5,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card55,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card6,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card7,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card77,
+
+#Card1:not(:checked) ~ #Card11:not(:checked) ~ #Card2:not(:checked) ~ #Card22:not(:checked) ~ #Card3:not(:checked) ~ #Card33:not(:checked) ~ #Car9d4:not(:checked) ~ #Card44:not(:checked) ~ #Card5:not(:checked) ~ #Card55:not(:checked) ~ #Card6:not(:checked) ~ #Card66:checked ~ #Card7:not(:checked) ~ #Card77:not(:checked) ~ #Card8:not(:checked) ~ #Card88:checked ~ .Card--Card8 {
+    pointer-events: none;
+}
